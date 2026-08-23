@@ -13,7 +13,7 @@
 </a>
   <br>
 👋 <b>Resume:</b>
-  <a href="https://resumelink.co/sandeep-kumar1" target="_blank">
+  <a href="https://resumelink.co/sandeep-kumar-resume" target="_blank">
   Click here
 </a>
 </p>
